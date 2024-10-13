@@ -1,1 +1,1 @@
-https://github.com/codebyadarsh/Homepage/
+[https://github.com/codebyadarsh/Homepage/](https://codebyadarsh.github.io/Homepage/)
